@@ -1,1 +1,2 @@
-# easymoneysniper
+# small tools
+
